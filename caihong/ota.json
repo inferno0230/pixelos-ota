@@ -1,11 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1765193460,
-            "filename": "PixelOS_caihong-16.1-20251208-0948.zip",
-            "id": "934dada2dc1ba80f1b4cf5ab61c1ae96d72c9b97494ae2cf4f375bc87bb31d41",
-            "size": 2859811376,
-            "url": "https://files.inferno0230.in/release/caihong/PixelOS/PixelOS_caihong-16.1-20251208-0948.zip",
+            "datetime": 1765701188,
+            "filename": "PixelOS_caihong-16.1-20251214-0834.zip",
+            "id": "8aa75b187ad359117901dc65778ee63f47279f6ac54ef90c798c8f76bbaa8c17",
+            "romtype": "Monthly",
+            "size": 2896541054,
+            "url": "https://files.inferno0230.in/release/caihong/PixelOS/PixelOS_caihong-16.1-20251214-0834.zip",
             "version": "16"
         }
     ]

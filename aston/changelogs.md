@@ -1,3 +1,6 @@
+### 14-Dec-2025
+\- Fix NFC issues on OnePlus Ace 3
+
 ### 13-Dec-2025
 \- Update kernel from OOS 16.0.1.300(EX01)
 

@@ -1,18 +1,11 @@
-### 14-Dec-2025
-\- Fix NFC issues on OnePlus Ace 3
+### 18-Dec-2025
+\- Fix screen off fod (again)
 
-### 13-Dec-2025
-\- Update kernel from OOS 16.0.1.300(EX01)
+\- Fix face unlock lockouts
 
-\- Update blobs from OOS 16.0.1.300(EX01)
+\- Enable google call recording option
 
-\- Add wallpaper effects
-
-\- Add AOD wallpaper
-
-\- Redo rounded corners and statusbar overlay
-
-\- Disable default 60hz frame rate for games
+\- Misc kernel changes
 
 Users on OOS15 based PixelOS are suggested to update firmware manually after updating to latest build. Feel free to join device support group for any querries.
 

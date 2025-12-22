@@ -1,11 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1765198435,
-            "filename": "PixelOS_benz-16.1-20251208-1137.zip",
-            "id": "9197aca48f02f28042ce6c8803ea2873c8598cc1ced75421d32f21bd0f2659d1",
-            "size": 3144960442,
-            "url": "https://files.inferno0230.in/release/benz/PixelOS/PixelOS_benz-16.1-20251208-1137.zip",
+            "datetime": 1766394701,
+            "filename": "PixelOS_benz-16.1-20251222-0913.zip",
+            "id": "45e85f93ddaba80564239b9282f3309348d245d7011f48ff6adb09da938b8926",
+            "romtype": "Monthly",
+            "size": 3182934437,
+            "url": "https://files.inferno0230.in/release/benz/PixelOS/PixelOS_benz-16.1-20251222-0913.zip",
             "version": "16"
         }
     ]

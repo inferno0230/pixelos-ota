@@ -1,7 +1,7 @@
-### 14-Dec-2025
-\- Disable default frame rate of 60hz for games
+### 29-Dec-2025
+\- Fix faceunlock lockouts
 
-\- Add wallpaper effects
+\- Update blobs from OPD2403_16.0.1.301(EX01)
 
 \- Misc changes
 

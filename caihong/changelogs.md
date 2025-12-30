@@ -1,7 +1,9 @@
-### 29-Dec-2025
+### 30-Dec-2025
 \- Fix faceunlock lockouts
 
-\- Update blobs from OPD2403_16.0.1.301(EX01)
+\- Update blobs from OOS 16.0.1
+
+\- Update kernel code from OOS 16.0.1
 
 \- Misc changes
 

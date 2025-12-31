@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1766060938,
-            "filename": "PixelOS_aston-16.1-20251218-1229.zip",
-            "id": "1f46cfd9d1be1a269b519d0b6735d91d5700ae28bd24805d4a9a652087eaf69d",
+            "datetime": 1767195047,
+            "filename": "PixelOS_aston-16.1-20251231-1532.zip",
+            "id": "9cafdd4032413e948f8e8a5ed2ac5d9d398e8f9b8b7d989307c53070b97764b2",
             "romtype": "Monthly",
-            "size": 3135297392,
-            "url": "https://files.inferno0230.in/release/aston/PixelOS/PixelOS_aston-16.1-20251218-1229.zip",
+            "size": 3142451913,
+            "url": "https://files.inferno0230.in/release/aston/PixelOS/PixelOS_aston-16.1-20251231-1532.zip",
             "version": "16"
         }
     ]

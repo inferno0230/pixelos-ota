@@ -1,13 +1,9 @@
-### 18-Dec-2025
-\- Fix screen off fod (again)
+### 31-Dec-2025
+\- Kernel optimisations
 
-\- Fix face unlock lockouts
+\- Battery optimisations
 
-\- Enable google call recording option
-
-\- Misc kernel changes
-
-Users on OOS15 based PixelOS are suggested to update firmware manually after updating to latest build. Feel free to join device support group for any querries.
+\- And a Happy New Year to people reading this
 
 Device support: [@infernos_hideout](https://t.me/infernos_hideout)
 

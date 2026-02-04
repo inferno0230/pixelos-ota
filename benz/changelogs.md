@@ -1,16 +1,14 @@
-### 18-Dec-2025
-\- Add ambient/AOD wallpaper
+### 04-Feb-2026
+\- Update kernel/blobs to 16.0.2.400(EX01)
 
-\- Add wallpaper live effects
+\- Reduce blur radius
 
-\- Fix screen off fod (again)
+\- Increase default framerate cap to 120
 
-\- Fix face unlock lockouts
+\- Increase skin temp thresholds for throttling
 
-\- Enable google call recording option
+\- Add smartspace
 
-\- Misc kernel changes
-
-\- Reduce animations jank
+\- Performance optimisations
 
 Device support: [@infernos_hideout](https://t.me/infernos_hideout)

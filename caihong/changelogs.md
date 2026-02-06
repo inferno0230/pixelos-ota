@@ -1,10 +1,10 @@
-### 30-Dec-2025
-\- Fix faceunlock lockouts
+### 06-Feb-2026
+\- January ASB
 
-\- Update blobs from OOS 16.0.1
+\- Added smartspace
 
-\- Update kernel code from OOS 16.0.1
+\- Update kernel/firmware/blobs from OOS 16.0.3.500
 
-\- Misc changes
+\- Increase default framerate for games to 144hz
 
 Device support: [@infernos_hideout](https://t.me/infernos_hideout)

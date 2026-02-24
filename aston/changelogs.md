@@ -1,7 +1,9 @@
-### 08-Feb-2026
-\- Upstream kernel and kernel modules with latest qcom changes
+### 24-Feb-2026
+\- Initial QPR2 build
 
-\- Misc kernel optiomations
+\- Switch to OSS HWC
+
+\- Add toggle/qstile for bypass charging
 
 Device support: [@infernos_hideout](https://t.me/infernos_hideout)
 

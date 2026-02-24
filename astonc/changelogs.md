@@ -1,5 +1,11 @@
-### 08-Feb-2026
-\- Upstream kernel and kernel modules with latest qcom changes
+### 24-Feb-2026
+\- Initial QPR2 build
+
+\- Enable Pixelworks 7p support
+
+\- Switch to OSS HWC
+
+\- Add toggle/qstile for bypass charging
 
 \- Misc kernel optiomations
 

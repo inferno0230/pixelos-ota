@@ -1,10 +1,6 @@
-### 06-Feb-2026
-\- January ASB
+### 24-Feb-2026
+\- Initial QPR2 build
 
-\- Added smartspace
-
-\- Update kernel/firmware/blobs from OOS 16.0.3.500
-
-\- Increase default framerate for games to 144hz
+\- Add toggle/qstile for bypass charging
 
 Device support: [@infernos_hideout](https://t.me/infernos_hideout)

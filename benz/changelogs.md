@@ -1,5 +1,9 @@
-### 24-Feb-2026
-\- Initial QPR2 build
+### 09-March-2026
+\- March ASB
+
+\- Fix Fixed no ringtone while connected to BT
+
+\- Fixed audio issues with USB DACS's during calls
 
 \- Add toggle/qstile for bypass charging
 

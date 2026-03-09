@@ -1,12 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1771925758,
-            "filename": "PixelOS_astonc-16.2-20260224-0937.zip",
-            "id": "67445cc2f839e8700a323fbd1720674743879a0de2b1b34975e4dd1d2c790ec3",
+            "datetime": 1773044308,
+            "filename": "PixelOS_astonc-16.2-20260309-0818.zip",
+            "id": "38f756700f9ff9a6ffb7efc5ad025b134861bec21a32e8ff85eb5f2ae55b5bde",
             "romtype": "Monthly",
-            "size": 3291834585,
-            "url": "https://files.inferno0230.in/release/astonc/PixelOS/PixelOS_astonc-16.2-20260224-0937.zip",
+            "size": 3292010916,
+            "url": "https://files.inferno0230.in/release/astonc/PixelOS/PixelOS_astonc-16.2-20260309-0818.zip",
+            "stream_url": "https://files.inferno0230.in/release/astonc/PixelOS/PixelOS_astonc-16.2-20260309-0818.zip",
             "version": "16"
         }
     ]

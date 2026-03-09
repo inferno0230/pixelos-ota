@@ -1,13 +1,13 @@
-### 24-Feb-2026
-\- Initial QPR2 build
+### 09-March-2026
+\- March ASB
 
-\- Enable Pixelworks 7p support
+\- Update firmware/blobs from COS 16.0.3.500(EX01)
 
-\- Switch to OSS HWC
+\- Fixed no ringtone while connected to BT 
 
-\- Add toggle/qstile for bypass charging
+\- Fixed audio issues with USB DACS's during calls
 
-\- Misc kernel optiomations
+\- Add toggle/qstile for forcing OTG on
 
 Device support: [@infernos_hideout](https://t.me/infernos_hideout)
 

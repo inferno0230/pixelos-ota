@@ -1,9 +1,13 @@
-### 24-Feb-2026
-\- Initial QPR2 build
+### 09-March-2026
+\- March ASB
 
-\- Switch to OSS HWC
+\- Update firmware/blobs from OOS 16.0.3.500(EX01)
 
-\- Add toggle/qstile for bypass charging
+\- Fixed no ringtone while connected to BT 
+
+\- Fixed audio issues with USB DACS's during calls
+
+\- Add toggle/qstile for forcing OTG on
 
 Device support: [@infernos_hideout](https://t.me/infernos_hideout)
 

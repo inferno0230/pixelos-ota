@@ -1,6 +1,6 @@
-### 24-Feb-2026
-\- Initial QPR2 build
+### 10-March-2026
+\- March ASB
 
-\- Add toggle/qstile for bypass charging
+\- Add toggle/qstile for Forcing OTG incase auto detect fails
 
 Device support: [@infernos_hideout](https://t.me/infernos_hideout)

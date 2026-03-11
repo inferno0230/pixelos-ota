@@ -1,3 +1,6 @@
+### 11-March-2026 (Hotfix)
+\- Fix NPE when long pressing notifications
+
 ### 09-March-2026
 \- March ASB
 

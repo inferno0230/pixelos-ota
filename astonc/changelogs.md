@@ -1,3 +1,9 @@
+### 18-March-2026
+\- Add support for LTPO
+
+\- Fix crashes cause by android auto
+
+
 ### 11-March-2026 (Hotfix)
 \- Fix NPE when long pressing notifications
 
@@ -9,7 +15,7 @@
 
 \- Fixed no ringtone while connected to BT 
 
-\- Fixed audio issues with USB DACS's during calls
+\- Fixed audio issues with USB DAC's during calls
 
 \- Add toggle/qstile for forcing OTG on
 

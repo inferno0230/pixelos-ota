@@ -1,3 +1,10 @@
+### 06-April-2026
+\- Update kernel code from OOS 16.0.3.500(EX01)
+
+\- Fix long vibrations
+
+\- Increase intensity of click/tick effects
+
 ### 15-March-2026
 \- Switch to OSS HWC
 

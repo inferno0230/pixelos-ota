@@ -1,12 +1,10 @@
-## 11-April-2026
-\- April ASB
+## 11-May-2026
+\- May ASB
 
-\- Add volume slider in QS
+\- Updated blobs/firmware from OOS 16.0.5.701(EX01)
 
+\- Upstreamed kernel/modules/devicetrees
 
-### 10-March-2026
-\- March ASB
-
-\- Add toggle/qstile for Forcing OTG incase auto detect fails
+\- Switched to libperf
 
 Device support: [@infernos_hideout](https://t.me/infernos_hideout)
